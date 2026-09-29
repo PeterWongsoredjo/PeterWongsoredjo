@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Peter 👋
 
+I build.
+
+lmao.. do check out some stuff tho 😄
 <!--
 **PeterWongsoredjo/PeterWongsoredjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
